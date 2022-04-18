@@ -1,0 +1,60 @@
+// modelos
+	// -----------
+	Model Helados("resources/objects/Helados/cara_ic1_00001.obj"); // se carga el objeto
+	Model TRex("resources/objects/TRex/TRex.obj"); // se carga el objeto
+	Model Traptor("resources/objects/Traptor/Traptor.obj");
+	Model Faro("resources/objects/Faro/Faro.obj");
+	Model Coffe("resources/objects/Coffe/Coffe.obj");
+	Model din1("resources/objects/din1/din1.obj");
+	Model fuente("resources/objects/fuente/fuente.obj");
+	Model hospi("resources/objects/hospi/hospi.obj");
+  
+  
+  //dibujar modelos
+  //HELADOS
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(-80.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		Helados.Draw(staticShader); // se dibuja
+    
+    //TRex
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(-30.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		TRex.Draw(staticShader); // se dibuja
+    
+    //TRaptor
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(80.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		TRaptor.Draw(staticShader); // se dibuja
+    
+    //Faro
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(-40.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		Faro.Draw(staticShader); // se dibuja
+    
+    //Coffe
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		Coffe.Draw(staticShader); // se dibuja
+    
+    //din1
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(30.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		din1.Draw(staticShader); // se dibuja
+    
+    //fuente
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(35.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		fuente.Draw(staticShader); // se dibuja
+    
+    //hospi
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(50.0f, 0.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f,0.5f,1.0f));
+		staticShader.setMat4("model", model); //los valores anteriores se pasan al shader
+		hospi.Draw(staticShader); // se dibuja
