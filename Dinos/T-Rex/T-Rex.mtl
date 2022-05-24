@@ -1,0 +1,98 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.02.2021 18:16:19
+
+newmtl skin
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.839216 0.839216 0.839216
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+
+newmtl spikes
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.768627 0.768627 0.768627
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+
+newmtl mouth
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.854902 0.854902 0.854902
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+
+newmtl teeth
+	Ns 50.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.827451 0.803922 0.709804
+	Ks 0.200000 0.194313 0.171564
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+
+newmtl eye
+	Ns 61.000008
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.800000 0.800000 0.800000
+	Ks 0.706353 0.790000 0.641294
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+
+newmtl claws
+	Ns 50.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.768627 0.768627 0.768627
+	Ks 0.200000 0.200000 0.200000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_Kd D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_C.jpg
+	map_bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
+	bump D:\Dropbox\AV Business\Turbosquid\4. Export & Publish LPS\Animals\Dinosaurs Rigged\Tyrannosaurus\Tyrannosaurus\Tyrannosaurus.fbm\DR_Tyranno_B.jpg
